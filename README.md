@@ -43,5 +43,5 @@
 - 🧮 推荐8GB以上内存
 - 🖥️ 部分功能需要支持AI功能的显卡配置，如果没有也可以正常使用
 
-[📘 了解更多功能](https://m1xrar6peo6.feishu.cn/docx/QMPIdesyZowH8VxsX9NcSigznFc)
+[📘 了解更多功能](https://m1xrar6peo6.feishu.cn/docx/BZT3dRqqUoodj0xvtN3c3QUjnSe)
 

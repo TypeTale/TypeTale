@@ -1,3 +1,6 @@
+<img width="2450" height="1440" alt="6e591cd2b2f9b48b6bb2dd5a2ca264c" src="https://github.com/user-attachments/assets/857924cb-5b4e-4018-8368-709141739b3a" />
+<img width="2450" height="1440" alt="c241168a23b8ae188eb572f8d295661" src="https://github.com/user-attachments/assets/8815e14c-7686-47d1-bc6e-d001871b0713" />
+
 # ✨ 字字动画 ✨
 
 [字字动画](https://link3.cc/13775339481) 是一款专为内容创作者打造的AIGC创作软件，主要用于小说推文。

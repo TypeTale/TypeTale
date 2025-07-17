@@ -1,5 +1,4 @@
-<img width="2450" height="1440" alt="6e591cd2b2f9b48b6bb2dd5a2ca264c" src="https://github.com/user-attachments/assets/857924cb-5b4e-4018-8368-709141739b3a" />
-<img width="2450" height="1440" alt="c241168a23b8ae188eb572f8d295661" src="https://github.com/user-attachments/assets/8815e14c-7686-47d1-bc6e-d001871b0713" />
+
 
 # ✨ 字字动画 ✨
 
@@ -60,4 +59,14 @@
 - 🖥️ 部分功能需要支持AI功能的显卡配置，如果没有也可以正常使用
 
 [📘 了解更多功能](https://m1xrar6peo6.feishu.cn/docx/BZT3dRqqUoodj0xvtN3c3QUjnSe)
+
+
+
+<img width="2450" height="1440" alt="6e591cd2b2f9b48b6bb2dd5a2ca264c" src="https://github.com/user-attachments/assets/857924cb-5b4e-4018-8368-709141739b3a" />
+<img width="2450" height="1440" alt="c241168a23b8ae188eb572f8d295661" src="https://github.com/user-attachments/assets/8815e14c-7686-47d1-bc6e-d001871b0713" />
+<img width="2450" height="1440" alt="871404fc11433a4d81e27fa185f5b0b" src="https://github.com/user-attachments/assets/a5b08960-9fb8-4c60-82df-fddf477ee03b" />
+<img width="2450" height="1440" alt="8452a70a3209d55eb0ae27ff35576d5" src="https://github.com/user-attachments/assets/7226e367-3b3f-4e16-851b-de87fe196ca2" />
+<img width="2450" height="1440" alt="27ed30c23c2aa9f0f60832614bf97c8" src="https://github.com/user-attachments/assets/267079bc-3752-4199-99f5-c007f39f739f" />
+<img width="2450" height="1440" alt="b00de586cea6cb2d60071386d1c3020" src="https://github.com/user-attachments/assets/d8ea5d5d-325b-4e84-963f-f19cf9c70dbe" />
+
 

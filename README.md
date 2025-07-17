@@ -61,8 +61,7 @@
 [📘 了解更多功能](https://m1xrar6peo6.feishu.cn/docx/BZT3dRqqUoodj0xvtN3c3QUjnSe)
 
 
-
-<img width="2450" height="1440" alt="6e591cd2b2f9b48b6bb2dd5a2ca264c" src="https://github.com/user-attachments/assets/857924cb-5b4e-4018-8368-709141739b3a" />
+<img width="2450" height="1440" alt="微信图片_20250718062222" src="https://github.com/user-attachments/assets/c110bf73-56ad-4883-bced-181723c837ec" />
 <img width="2450" height="1440" alt="c241168a23b8ae188eb572f8d295661" src="https://github.com/user-attachments/assets/8815e14c-7686-47d1-bc6e-d001871b0713" />
 <img width="2450" height="1440" alt="871404fc11433a4d81e27fa185f5b0b" src="https://github.com/user-attachments/assets/a5b08960-9fb8-4c60-82df-fddf477ee03b" />
 <img width="2450" height="1440" alt="8452a70a3209d55eb0ae27ff35576d5" src="https://github.com/user-attachments/assets/7226e367-3b3f-4e16-851b-de87fe196ca2" />

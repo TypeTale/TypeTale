@@ -13,10 +13,10 @@
 ## 🌟 主要功能
 
 ### 🤖 对接AI能力
-- 🖼️ **图片生成**：StableDiffusion WebUI，ComfyUI，Midjourney，Nano Banana
-- 🎞️ **视频生成**：ComfyUI Wan2.2、MidJourney；支持文生视频、图生视频、首帧/首尾帧驱动
+- 🖼️ **图片生成**：StableDiffusion WebUI，ComfyUI，Midjourney，Nano Banana，Qwen
+- 🎞️ **视频生成**：ComfyUI Wan、MidJourney；支持文生视频、图生视频、首帧/首尾帧驱动
 - 🔊 **音频生成**：EdgeTTS，本地GPTSoVITS
-- 🧠 **模型平台**：阿里云，硅基流动，DeepSeek官方，任意自定义平台
+- 🧠 **语言模型**：阿里云，硅基流动，DeepSeek，Gemini，Claude，任意自定义平台
 - 🎬 **剪映草稿**：一键生成剪映草稿，发布视频
 
 ### 🔄 AIGC全链路支持

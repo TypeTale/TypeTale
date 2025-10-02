@@ -13,7 +13,7 @@
 ## 🌟 主要功能
 
 ### 🤖 对接AI能力
-- 🖼️ **图片生成**：StableDiffusion WebUI，ComfyUI，Midjourney
+- 🖼️ **图片生成**：StableDiffusion WebUI，ComfyUI，Midjourney, Nano Banana
 - 🎞️ **视频生成**：ComfyUI Wan2.2、MidJourney；支持文生视频、图生视频、首帧/首尾帧驱动
 - 🔊 **音频生成**：EdgeTTS，本地GPTSoVITS
 - 🧠 **模型平台**：阿里云，硅基流动，DeepSeek官方，任意自定义平台
@@ -88,6 +88,16 @@
 <img width="2450" height="1440" alt="b00de586cea6cb2d60071386d1c3020" src="https://github.com/user-attachments/assets/d8ea5d5d-325b-4e84-963f-f19cf9c70dbe" />
 
 ## 更新日志
+
+### 更新日志 6.2.96
+1. 参考图片功能升级  
+    1.1 「Gemini」(Nano Banana)，「ComfyUI」支持多参考图片设置，即编辑图片功能  
+    1.2 原有的二创参考图片默认作为新体系的第一张参考图片，ComfyUI中需要手动设置相应节点使用第几张参考图片  
+    1.3 分镜图片右键菜单或拖动图片将图片设置为参考图片  
+2. 修复了字字动画Miaoshou反推服务器的不稳定问题  
+3. 修复头像显示BUG  
+4. 修复其他小概率崩溃问题  
+
 
 ### 更新日志 6.2.89
 

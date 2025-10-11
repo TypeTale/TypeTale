@@ -68,7 +68,7 @@
 - 🧮 推荐8GB以上内存
 - 🖥️ 部分功能需要支持AI功能的显卡配置，如果没有也可以正常使用
 
-[📘 了解更多功能](https://m1xrar6peo6.feishu.cn/docx/BZT3dRqqUoodj0xvtN3c3QUjnSe)
+[📘 了解更多功能](https://wcnzyhmsp2tw.feishu.cn/wiki/FwqMwdBgni0aKDkxY6rcEdaWnjc)
 
 
 <img width="2450" height="1440" alt="微信图片_20250718062222" src="https://github.com/user-attachments/assets/c110bf73-56ad-4883-bced-181723c837ec" />

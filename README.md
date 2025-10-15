@@ -14,9 +14,10 @@
 
 ### 🤖 对接AI能力
 - 🖼️ **图片生成**：StableDiffusion WebUI，ComfyUI，Midjourney，Nano Banana，Qwen
-- 🎞️ **视频生成**：ComfyUI Wan、MidJourney；支持文生视频、图生视频、首帧/首尾帧驱动
+- 🎞️ **视频生成**：ComfyUI(Wan,Veo3,Sora2)，MidJourney；支持文生视频、图生视频、首帧/首尾帧驱动
+- 🔌 **插件开发**：软件完整支持ComfyUI能力，可以通过开发ComfyUI节点支持任意图片生成源，视频生成源
 - 🔊 **音频生成**：EdgeTTS，本地GPTSoVITS
-- 🧠 **语言模型**：阿里云，硅基流动，DeepSeek，Gemini，Claude，任意自定义平台
+- 🧠 **语言模型**：阿里云，硅基流动，DeepSeek，Gemini，Claude，任意自定义平台，转接平台
 - 🎬 **剪映草稿**：一键生成剪映草稿，发布视频
 
 ### 🔄 AIGC全链路支持

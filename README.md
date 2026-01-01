@@ -1,6 +1,6 @@
 # ✨ 字字动画 ✨
 
-[字字动画](https://link3.cc/13775339481) 是一款专为内容创作者打造的AIGC创作软件，主要用于小说推文，AI短剧，AI电影。
+[字字动画](https://wcnzyhmsp2tw.feishu.cn/wiki/FwqMwdBgni0aKDkxY6rcEdaWnjc) 是一款专为内容创作者打造的AIGC创作软件，主要用于小说推文，AI短剧，AI电影。
 
 🎉 字字动画目前**完全免费**，并承诺现有功能与以后的基础功能**永久免费**。
 
@@ -8,7 +8,7 @@
 
 ## 🚀 快速上手
 
-🔗 前往[我们的官网](https://link3.cc/13775339481)下载并体验这款创作工具。
+🔗 前往[我们的官网](https://wcnzyhmsp2tw.feishu.cn/wiki/FwqMwdBgni0aKDkxY6rcEdaWnjc)下载并体验这款创作工具。
 
 ## 🌟 主要功能
 

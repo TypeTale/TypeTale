@@ -9,6 +9,8 @@
 ## 🚀 快速上手
 
 🔗 前往[我们的官网](https://typetale.top/)下载并体验这款创作工具。
+字字动画客户端下载网址： https://typetale.top/
+OmniBoard无限画布网页版： https://omniboard.tv/
 
 ## 🌟 主要功能
 

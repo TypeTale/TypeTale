@@ -118,7 +118,7 @@ OmniBoard无限画布网页版： https://omniboard.tv/
 1. 新视图上线：画布  
     1.1 在图片批量和章节批量支持将分镜投影到画布视图，在画布视图编辑后重新加入分镜视频  
     1.2 支持3D导演台，音乐创作等画布常见功能  
-    1.3 独立画布产品OmniBoard已经正式上线，https://omniboard.art，「Seedance2.0 720P」会员价格低至0.34元/秒，积分在网页端和客户端互通  
+    1.3 独立画布产品OmniBoard已经正式上线，https://omniboard.art ,「Seedance2.0 720P」会员价格低至0.34元/秒，积分在网页端和客户端互通  
 2. 字字Agent优化  
     2.1 支持通过Agent调整提示词模板    
     2.2 支持通过Agent使用指定的提示词模板  
